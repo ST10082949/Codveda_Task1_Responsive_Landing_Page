@@ -30,21 +30,6 @@ This project fulfills the following Codveda requirements:
 
 ---
 
-## 📂 Project Structure
-
-Codveda_Task1_Responsive_Landing_Page/
-├── index.html          # Main HTML document
-├── style.css           # All styles (responsive, animations)
-├── script.js           # Interactive functionality
-├── images/
-│   ├── hero_image.png  # Hero background
-│   └── about_pic.png   # About section image
-└── README.md           # Project documentation
-
-
-
----
-
 ## 📱 Features
 - Responsive navigation bar with smooth scrolling
 - Hero section with background image and overlay
