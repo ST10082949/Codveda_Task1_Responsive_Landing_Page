@@ -31,7 +31,13 @@ section h2 {
   padding: 1rem 1.5rem;
   background: #000;
   flex-wrap: wrap;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
 }
+
 
 .logo {
   font-size: 1.5rem;
@@ -67,6 +73,7 @@ section h2 {
     url("images/hero_image.png");
   background-size: cover;
   background-position: center;
+  margin-top: 60px; 
 }
 
 .hero h1 {
